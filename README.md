@@ -14,26 +14,6 @@ The objective of this project is to analyze real-world data to extract meaningfu
 6. Predictive Analysis using Classification Models  
 7. Results Interpretation and Conclusion  
 
-## 📁 Repository Structure
-Capstone-Project/
-│
-│
-├── Applied Data Science Capstone/
-│   ├── All IPYNB Files
-│
-│
-├── app.py
-│
-│
-├── ds-capstone-template-coursera.ppt
-│
-│
-├── spacex_launch_dash.csv
-│
-│
-├── README.md
-│
-
 
 ## 📈 Key Outcomes
 - Discovered insights using EDA and SQL analysis
