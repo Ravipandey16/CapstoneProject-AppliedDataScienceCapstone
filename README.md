@@ -5,6 +5,7 @@ This repository contains the final capstone project completed as part of a Cours
 ## 🔍 Project Objective
 The objective of this project is to analyze real-world data to extract meaningful insights, visualize patterns using multiple tools, and build a classification-based predictive model to support data-driven decision-making.
 
+
 ## 📊 Project Workflow
 1. Data Collection and Data Wrangling  
 2. Exploratory Data Analysis (EDA) with Visualization  
@@ -12,7 +13,7 @@ The objective of this project is to analyze real-world data to extract meaningfu
 4. Interactive Map Visualization using Folium  
 5. Interactive Dashboard Development using Plotly Dash  
 6. Predictive Analysis using Classification Models  
-7. Results Interpretation and Conclusion  
+7. Results Interpretation and Conclusion
 
 
 ## 📈 Key Outcomes
@@ -21,9 +22,11 @@ The objective of this project is to analyze real-world data to extract meaningfu
 - Developed and evaluated machine learning classification models
 - Presented findings in a structured and easy-to-understand format
 
+
 ## 📄 Final Deliverables
 - GitHub repository with complete code and notebooks
 - PDF presentation summarizing the entire project workflow and results
+
 
 ## 🎓 Course Information
 This project was submitted as a peer-graded assignment for a Coursera Data Science Capstone course.
