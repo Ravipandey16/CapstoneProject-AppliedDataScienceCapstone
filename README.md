@@ -17,16 +17,22 @@ The objective of this project is to analyze real-world data to extract meaningfu
 ## 📁 Repository Structure
 Capstone-Project/
 │
+│
 ├── Applied Data Science Capstone/
 │   ├── All IPYNB Files
 │
+│
 ├── app.py
+│
 │
 ├── ds-capstone-template-coursera.ppt
 │
+│
 ├── spacex_launch_dash.csv
 │
+│
 ├── README.md
+│
 
 
 ## 📈 Key Outcomes
